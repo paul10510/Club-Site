@@ -1,0 +1,16 @@
+#greenCenter{
+	text-align: center;
+	color: green;
+}
+
+body{
+	background: black;
+}
+
+h1{
+	font-size: 55px;
+}
+
+p{
+	font-size: 30px;
+}
