@@ -1,6 +1,7 @@
 #greenCenter{
 	text-align: center;
-	color: green;
+	color: chartreuse;
+	font-family: 'Courier New', Courier, monospace;
 }
 
 body{
